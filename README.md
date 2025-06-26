@@ -41,5 +41,5 @@ I'm passionate about creating interactive and dynamic user experiences using mod
 
 ## 🌐 Find me on
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/agustin-ramirez-8a160a196/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/agustin-ramirez-8a160a196/)
 [![Portfolio](https://img.shields.io/badge/Website-black?logo=react)](https://portfoliov2-agustin.vercel.app)
